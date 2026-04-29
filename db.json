@@ -1,0 +1,36 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Tesla Model S",
+      "model": "2024",
+      "color": "Midnight Silver",
+      "price": "89990",
+      "description": "Electric powertrain performance with Long Range and Plaid variants. 0–60 mph in 1.99s."
+    },
+    {
+      "id": "2",
+      "name": "BMW M4 Competition",
+      "model": "2023",
+      "color": "Isle of Man Green",
+      "price": "78100",
+      "description": "High-performance sports coupe with a 3.0L twin-turbo inline-6 producing 503 hp."
+    },
+    {
+      "id": "3",
+      "name": "Audi RS e-tron GT",
+      "model": "2024",
+      "color": "Tactical Green",
+      "price": "147100",
+      "description": "Gran Turismo grand tourer with electric precision and 637 hp from dual motors."
+    },
+    {
+      "id": "4",
+      "name": "Porsche 911 GT3 RS",
+      "model": "2024",
+      "color": "Guards Red",
+      "price": "224050",
+      "description": "Naturally aspirated 4.0L flat-six, 518 hp, Track-focused aerodynamics and suspension."
+    }
+  ]
+}
