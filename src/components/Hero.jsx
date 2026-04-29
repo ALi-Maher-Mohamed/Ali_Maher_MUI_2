@@ -46,7 +46,7 @@ const Hero = () => (
       }}
     >
       <Chip
-        label="✨ Now Open for Dinner"
+        label="We're Now Open for Dinner"
         sx={{
           bgcolor: "rgba(255, 255, 255, 0.15)",
           color: "white",
